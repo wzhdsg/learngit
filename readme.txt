@@ -1,1 +1,1 @@
-git is a version control sole
+git is a version control sole and software
