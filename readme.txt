@@ -1,4 +1,1 @@
-git is good
-
-wq
-git is happy
+git is a version control sole
